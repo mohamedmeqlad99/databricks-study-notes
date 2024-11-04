@@ -18,6 +18,7 @@ Each notebook in this repository covers essential topics in Databricks, includin
 |--------------------------------------|--------------------------------------------------------------------------|------------|
 | `Databricks_Views_Study_Notebook.ipynb` | Covers views, including temporary and global temporary views, and best practices. | [Click here](Databricks_Views_Study_Notebook.ipynb) |
 | `Databricks_Delta_Tables_Study_Notebook` | Covers all the deatales about data bricks delta table data type | [Click here](Databricks_Delta_Tables_Study_Notebook_v2.ipynb) |
+| `Structured_Streaming_Databricks` | understaind the architecture of the structured streaming in databricks  | [Click here](Structured_Streaming_Databricks.ipynb) |
 | _(More notebooks to come)_           | Additional topics will be added to provide comprehensive coverage.       | _(Coming soon)_ |
 
 ## 🚀 More are coming 
