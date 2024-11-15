@@ -85,4 +85,35 @@ Which of the following could explain why Databricks Repos is recommended instead
 
 **Databricks Repos supports creating and managing branches for development work.**
 
+***
+A data engineer has a database named **db_hr**, and they want to know where this database was created in the underlying storage.
+Which of the following commands can the data engineer use to complete this task?
+
+**DESCRIBE EXTENDED db_hr**
+
+****
+Given the following commands:
+```sql
+CREATE DATABASE db_hr;
+USE db_hr;
+CREATE TABLE employees;
+```
+where the new table ***employees*** will be stored 
+
+**dbfs:/user/hive/warehouse/db_hr.db**
+***
+
+Which of the following statements best describes the usage of `CREATE SCHEMA` command ?
+
+
+**It’s used to create a database**
+
+note that --> in HIVE in data bricks  **schemas** and **databases** are essentially the same concept, with the terms used interchangeably. Both commands create a namespace for tables and other objects within the environment.
+
+SO create data db = create  schema database 
+***
+Which of the following statements is **Not** true about CTAS statements ?
+
+**CTAS statements support manual schema declaration**
+
 
